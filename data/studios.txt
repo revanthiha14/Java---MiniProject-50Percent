@@ -1,0 +1,5 @@
+# ID|Name|Headquarters
+PH-103|Warner Bros. Pictures|Burbank, California
+PH-102|Mythri Movie Makers|Hyderabad, India
+PH-101|Horizon Studios|Los Angeles & Mumbai
+PH-105|Paramount Pictures|Hollywood, CA
